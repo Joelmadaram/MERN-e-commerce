@@ -1,3 +1,4 @@
 # MERN-e-commerce
 
-![Alt text](![Ecommerce](https://github.com/user-attachments/assets/e38ed30a-3c49-4eb4-9f14-23797ab1776b))
+![Ecommerce](https://github.com/user-attachments/assets/686f259b-eb41-4ae8-baf0-9c3687c1a5b8)
+
